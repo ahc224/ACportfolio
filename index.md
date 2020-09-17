@@ -4,7 +4,7 @@ hehe
 
 ## This is MY territory
 
-lol
+>lol
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +23,7 @@ hello my name is andrew
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Personal Website](https://ahc224.github.io/ACportfolio/) and ![Profile](https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/LUwithShield-CMYK.svg/1200px-LUwithShield-CMYK.svg.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
