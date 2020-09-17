@@ -1,7 +1,5 @@
 # ahc224.github.io
 
-# Welcome to my page!
-
 Hello! I am Andrew Choi and I am currently a freshman studying Environmental Science at Lehigh University's Class of 2024.
 
 ## About me
