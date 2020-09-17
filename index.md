@@ -8,5 +8,5 @@ hehe
 
 # Resources
 
-![Profile](https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/LUwithShield-CMYK.svg/1200px-LUwithShield-CMYK.svg.png)
+![Profile](https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/LUwithShield-CMYK.svg/1200px-LUwithShield-CMYK.svg.png= 100x100)
 [Website](https://ahc224.github.io/ACportfolio/)
