@@ -1,8 +1,8 @@
-## Welcome to MY page :)))
+# Welcome to MY page :)))
 
 hehe
 
-# This is MY territory
+## This is MY territory
 
 lol
 
@@ -32,4 +32,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ahc224/ACportfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-## no support 4 u
+### no support 4 u
