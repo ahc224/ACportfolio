@@ -11,7 +11,6 @@ Environmental Science is also something I have taken interest in since high scho
 ### My website
 
 >[My website](https://ahc224.github.io/ACportfolio/)
-<p> https://
   
 ### My profile
 
