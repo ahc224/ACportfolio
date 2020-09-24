@@ -12,6 +12,4 @@ Environmental Science is also something I have taken interest in since high scho
 
 <
 
-
-Infographic](/Users/andrew/Desktop/Lehigh University Student Enrollment.png
-/var/folders/44/jwzgt_1s3sb1rnwz5yft9f280000gn/T/com.apple.Preview/com.apple.Preview.PasteboardItems/Lehigh University Student Enrollment.png)
+Infographic](/Users/andrew/Desktop/Lehigh University Student Enrollment.png)
