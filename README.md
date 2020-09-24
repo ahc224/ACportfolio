@@ -12,4 +12,4 @@ Environmental Science is also something I have taken interest in since high scho
 
 <The infographic below displays the relationships between the number of students enrolled in each of the different colleges at Lehigh University. It should be noted that the most amount of students are enrolled in the College of Arts and Sciences, simply due to the vast variety of subjects that the college gives students. However the other colleges also seem to have a good percent of the population, making Lehigh as a whole a diverse school with the capability of teaching a whole plethora of topics. In addition, Lehigh also offers certain programs that mix the interests of two or more different subjects, and although not as popular as the other subjects, these programs offer a greater variety of learning opportunities that I think should be used more often.
 
-![Infographic](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Lehigh%20University%20Student%20Enrollment.png?raw=true){:height="36px" width="36px"}
+![Infographic](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Lehigh%20University%20Student%20Enrollment.png?raw=true)
