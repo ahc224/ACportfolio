@@ -13,3 +13,13 @@ Environmental Science is also something I have taken interest in since high scho
 > The infographic below displays the relationships between the number of students enrolled in each of the different colleges at Lehigh University. It should be noted that the most amount of students are enrolled in the College of Arts and Sciences, simply due to the vast variety of subjects that the college gives students. However the other colleges also seem to have a good percent of the population, making Lehigh as a whole a diverse school with the capability of teaching a whole plethora of topics. In addition, Lehigh also offers certain programs that mix the interests of two or more different subjects, and although not as popular as the other subjects, these programs offer a greater variety of learning opportunities that I think should be used more often.
 
 ![Infographic](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Lehigh%20University%20Student%20Enrollment.png?raw=true)
+
+## Infographic Project 1
+
+> The infographic below described the energy consumption of the United States compared to the world in 2019, as well as the percentage of energy types within the United States itself. I sourced most of the information from statista.com, and faithfully recreated the graph presented on the page. I created the infographic mainly to show how much energy the United States and the top 10 energy-using countries use as a whole, compared to everyone else in the world. The results were shocking, and it gave me an idea of exactly how much energy we are using, while not realizing that we only make up a small percentage of the world's population. In addition, I included energy types and their respective percentages in order to demonstrate where our country is likely going in the future, and how such trends could have a major impact.
+
+>[statista.com](https://www.statista.com/statistics/263455/primary-energy-consumption-of-selected-countries/)
+
+>[eia.gov](https://www.eia.gov/energyexplained/us-energy-facts/)
+
+![US Energy Consumption, World Comparison 2019](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Infographic.png?raw=true)
