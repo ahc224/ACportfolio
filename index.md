@@ -39,6 +39,10 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ## Timeline Project
 
+> The timeline below describes the rivalry between Lehigh and Lafayette in football. This is a long-lasting rivalry that has been going on for many decades, and each event in history represents a turning point in this ongoing conflict. Even through the current pandemic, the timeline shows that the rivalry has not stopped.
+
+>[Le-Laf Rivalry](https://www1.lehigh.edu/about/lehigh-lafayette)
+
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bI-4rvnNfhxaXMViyzjDa0qaPUyo2Wo3e1MYCqGyq4A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Timeline 1 (The Future of Space Travel)
