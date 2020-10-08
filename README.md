@@ -29,6 +29,18 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bI-4rvnNfhxaXMViyzjDa0qaPUyo2Wo3e1MYCqGyq4A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Timeline 1
+## Timeline 1 (The Future of Space Travel)
+
+> The timeline below is a representation of what space travel could look like in the next century and even beyond. Each moment in the near future is taken in intervals of 10 years, with the exception of the last one. This was done on purpose, to create an accurate scale showing just how far apart events in space can be. Some of these points are mere speculation, but could provide insight as to what the future of society could look like going forward. 
+
+>[futuretimeline.net](https://www.futuretimeline.net/)
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=164QpfxZ5EEwXEQpr8nsHrnkeVSGJk5jssjdLqrLcUVU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Chart Project
+
+> The chart below describes the percentage of students that enrolled in Lehigh last year. Each bar is displayed in relation to all of the others, with each value displaying a percent of students that enrolled in that specific college.
+
+>[university stats](https://www1.lehigh.edu/about/university-statistics)
+
+![Bar chart](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/2019_Percent_Undergrad_Enrollment_2019_Percent_Undergrad_Enrollment_chartbuilder.png?raw=true)
