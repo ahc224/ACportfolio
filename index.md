@@ -66,8 +66,11 @@ I joined the journalism class to further my interests in data gathering, organiz
 > The chart below displays the evolution of total annual revenue per year from three different companies, all of which market, "big tech". It is fascinating to me how people evolve, and it is shown by what products they buy as time progresses. In 2010, sales in Sony topped Apple and Microsoft, but fell over time as the other two took over. However, as Apple and Microsoft developed similar products, Apple gained a vast lead and remained superior throughout the decade. By creating a bar chart that directly places these values up against one another, it is easy to see the difference between all three companies with ease. In addition, by having the same scale, this difference is much more pronounced than if I had a fluctuating scale or a break in the interval.
 
 >[Macrotrends](macrotrends.net)
+
 >[apple](https://www.macrotrends.net/stocks/charts/AAPL/apple/revenue)
+
 >[microsoft](https://www.macrotrends.net/stocks/charts/MSFT/microsoft/revenue)
+
 >[sony](https://www.macrotrends.net/stocks/charts/SNE/sony/revenue)
 
 ![Chart 1](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Comparison_of_Big_Tech_Revenues_Apple_Revenue_Microsoft_Revenue_Sony_Revenue_chartbuilder.png?raw=true)
