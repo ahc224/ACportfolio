@@ -90,3 +90,13 @@ I joined the journalism class to further my interests in data gathering, organiz
 >[Dataset](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit)
 
 ![Chart 3](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
+## Chart 2, Subscriber Count
+
+> The chart below describes the relationship between the subseriber counts of the two biggest Youtubers on Youtube. Youtube is a platform where creators can create whatever videos they want, and upload them with the world. To me, These two Youtubers who have culminated over 100 million subscribers as of January 2020 are the face of the platform, with some of the biggest fanbases in the world. In addition, I found it surprising that T-Series, a music channel based in India, started extremely small but grew to overtake even PewDiePie in only the past few years. To me, this shows the evolution of how society as a whole is evolving through separate interests, as even the smallest of creators can grow with enough time and effort. It should be noted that I did in fact create the last time stamp, January 2020, but Chartbuilder did not display this information on the actual graph. 
+
+>[PewDiePie](https://www.statista.com/statistics/681070/pewdiepie-subscriber-numbers/)
+
+>[T-Series](https://www.trackalytics.com/youtube/user/tseries/)
+
+![Chart Project 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Subscriber_Count_of_Biggest_Youtubers_Comparison_PewDiePie_T-Series_chartbuilder.png?raw=true)
