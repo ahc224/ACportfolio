@@ -63,3 +63,10 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ![Chart 1](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Comparison_of_Big_Tech_Revenues_Apple_Revenue_Microsoft_Revenue_Sony_Revenue_chartbuilder.png?raw=true)
 
+## Chart Project 2
+
+> This chart displays the percentage of the ratio between three different schools over the course of five separate schools at Lehigh University. The percentages fluctuate constantly, so it is important to look at the statistics before making any decisions on what school is best for prospective students when applying to Lehigh University.
+
+>[Lehigh Ratios](https://oirsa.lehigh.edu/university-profile)
+
+![Chart 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Percentage_Ratio_of_Students_in_Lehigh_Arts___Sciences_Business_Engineering_chartbuilder.png?raw=true)
