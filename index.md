@@ -82,3 +82,11 @@ I joined the journalism class to further my interests in data gathering, organiz
 >[Lehigh Ratios](https://oirsa.lehigh.edu/university-profile)
 
 ![Chart 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Percentage_Ratio_of_Students_in_Lehigh_Arts___Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+## Chart Project 3
+
+> The chart below displays the relationship between a country's GDP and its happiness level. While there is no specific unit of happiness, the chart shows this relationship in comparison to their respective countries, based on their GDP. In this case, I created a scatter plot in order to show the distinct points in the data, since the trend is visible, but vague. In general, the higher the GDP of the country, the more happy it is, with happiness being based on its citizens. Due to Chartbuilder limitations, I could not show the names of the actual countries; however, this can be easily bypassed by searching each country's GDP.
+
+>[Dataset](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit)
+
+![Chart 3](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
