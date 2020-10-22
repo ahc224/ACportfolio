@@ -100,3 +100,11 @@ I joined the journalism class to further my interests in data gathering, organiz
 >[T-Series](https://www.trackalytics.com/youtube/user/tseries/)
 
 ![Chart Project 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Subscriber_Count_of_Biggest_Youtubers_Comparison_PewDiePie_T-Series_chartbuilder.png?raw=true)
+
+## Map Project 
+
+> The map below displays the top 20 cities that are the most popular for cycling. On a map format, it is easy for you to scroll through the various locations and find out exactly what city you should go to next for your next cycling trip. Although nowadays, it might be a better idea to stay home, since traveling is not the best idea. All information credited from Wired, 2019.
+
+>[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
+
+![Map Project](<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1V1pKtgw9rem49T-d95IFckmxwEnZvlqv" width="640" height="480"></iframe>)
