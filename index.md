@@ -107,4 +107,4 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 >[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 
-![Map Project](https://www.google.com/maps/d/u/0/embed?mid=1V1pKtgw9rem49T-d95IFckmxwEnZvlqv)
+![Map Project](https://www.google.com/maps/d/u/0/edit?mid=1V1pKtgw9rem49T-d95IFckmxwEnZvlqv&ll=1.4133213652176835%2C0&z=2)
