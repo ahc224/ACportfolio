@@ -108,3 +108,11 @@ I joined the journalism class to further my interests in data gathering, organiz
 >[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1V1pKtgw9rem49T-d95IFckmxwEnZvlqv" width="640" height="480"></iframe>
+
+## Map 1 (Made using Google MapMaker)
+
+> The map below describes the top 10 loneliest places that a human could possibly travel on planet earth. In this case, loneliness is measured by how far the location is from civilization, along with how sparsely populated the location is, meaning the least number of people living over the largest land area. By using a map, it is easy for someone to see exactly where each location is, and each description informs people of how to get to such locations, if they really wanted to travel there. It is worth noting that the numbers that appear on the map are in reverse order, so the location labeled "1" is actually the tenth loneliest place on earth, and so on. Many of my findings included large areas of sparsely populated land, or islands that are practically uninhabited. However, there are many other points on earth that are also sparsely populated, maybe even more so than the locations on this list. 
+
+>[Top 10 unknown](http://www.top10unknown.com/2019/07/22/top-10-loneliest-places-on-earth/)
+
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1BUxA6Neu8kCKOSiJGI955CxLRZQoeh9Z" width="640" height="480"></iframe>
