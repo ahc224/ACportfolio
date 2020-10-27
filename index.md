@@ -37,7 +37,7 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ![US Energy Consumption, World Comparison 2019](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Infographic%201.png?raw=true)
 
-## Timeline Project
+## Le-Laf Conflict Timeline
 
 > The timeline below describes the rivalry between Lehigh and Lafayette in football. This is a long-lasting rivalry that has been going on for many decades, and each event in history represents a turning point in this ongoing conflict. Even through the current pandemic, the timeline shows that the rivalry has not stopped.
 
@@ -45,7 +45,7 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bI-4rvnNfhxaXMViyzjDa0qaPUyo2Wo3e1MYCqGyq4A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Timeline 1 (The Future of Space Travel)
+## The Future of Space Travel
 
 > The timeline below is a representation of what space travel could look like in the next century and even beyond. Each moment in the near future is taken in intervals of 10 years, with the exception of the last one. This was done on purpose, to create an accurate scale showing just how far apart events in space can be. Some of these points are mere speculation, but could provide insight as to what the future of society could look like going forward. 
 
@@ -53,7 +53,7 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=164QpfxZ5EEwXEQpr8nsHrnkeVSGJk5jssjdLqrLcUVU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Chart Project
+## Percentage of Students that Enrolled in Lehigh, 2019
 
 > The chart below describes the percentage of students that enrolled in Lehigh last year. Each bar is displayed in relation to all of the others, with each value displaying a percent of students that enrolled in that specific college.
 
@@ -61,9 +61,9 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ![Bar chart](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/2019_Percent_Undergrad_Enrollment_2019_Percent_Undergrad_Enrollment_chartbuilder.png?raw=true)
 
-## Chart 1, Revenue of Big Tech
+## Revenue of Big Tech
 
-> The chart below displays the evolution of total annual revenue per year from three different companies, all of which market, "big tech". It is fascinating to me how people evolve, and it is shown by what products they buy as time progresses. In 2010, sales in Sony topped Apple and Microsoft, but fell over time as the other two took over. However, as Apple and Microsoft developed similar products, Apple gained a vast lead and remained superior throughout the decade. By creating a bar chart that directly places these values up against one another, it is easy to see the difference between all three companies with ease. In addition, by having the same scale, this difference is much more pronounced than if I had a fluctuating scale or a break in the interval.
+> The chart below displays the evolution of total annual revenue per year from three different companies, all of which market, "big tech". It is fascinating how people evolve, shown by what products they buy as time progresses. In 2010, sales in Sony topped Apple and Microsoft, but fell over time as the other two took over. However, as Apple and Microsoft developed similar products, Apple gained a vast lead and remained superior throughout the decade. By creating a bar chart that directly places these values up against one another, it is easy to see the difference between all three companies with ease. In addition, by having the same scale, this difference is much more pronounced than if I had a fluctuating scale or a break in the interval.
 
 >[Macrotrends](macrotrends.net)
 
@@ -75,25 +75,25 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ![Chart 1](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Comparison_of_Big_Tech_Revenues_Apple_Revenue_Microsoft_Revenue_Sony_Revenue_chartbuilder.png?raw=true)
 
-## Chart Project 2
+## Lehigh Schools Student Ratios, 2015-19
 
-> This chart displays the percentage of the ratio between three different schools over the course of five separate schools at Lehigh University. The percentages fluctuate constantly, so it is important to look at the statistics before making any decisions on what school is best for prospective students when applying to Lehigh University.
+> This chart displays the percentage ratio between three different schools over the course of five separate schools at Lehigh University. The percentages fluctuate constantly, meaning that the school is constantly changing interests and maintaining a diverse population of students who want to learn different subjects all the time.
 
 >[Lehigh Ratios](https://oirsa.lehigh.edu/university-profile)
 
 ![Chart 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Percentage_Ratio_of_Students_in_Lehigh_Arts___Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
-## Chart Project 3
+## Country GDP vs. Happiness
 
-> The chart below displays the relationship between a country's GDP and its happiness level. While there is no specific unit of happiness, the chart shows this relationship in comparison to their respective countries, based on their GDP. In this case, I created a scatter plot in order to show the distinct points in the data, since the trend is visible, but vague. In general, the higher the GDP of the country, the more happy it is, with happiness being based on its citizens. Due to Chartbuilder limitations, I could not show the names of the actual countries; however, this can be easily bypassed by searching each country's GDP.
+> The chart below displays the relationship between a country’s GDP and its happiness level. While there is no specific unit of happiness, the chart shows this relationship in comparison to their respective countries, based on their GDP. In this case, I created a scatter plot in order to show the distinct points in the data, since the trend is visible, but vague. In general, the higher the GDP of the country, the more happy it is, up until the data reaches a plateau after the GDP crosses $40,000. Due to Chartbuilder limitations, I could not show the names of the actual countries; however, this can be easily bypassed by searching each country’s GDP.
 
 >[Dataset](https://docs.google.com/spreadsheets/d/1GqouSzpED6AiwiO778FcIerDmM27A0sXcteGO7Dvad8/edit)
 
 ![Chart 3](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
 
-## Chart 2, Subscriber Count
+## Subscriber Count
 
-> The chart below describes the relationship between the subseriber counts of the two biggest Youtubers on Youtube. Youtube is a platform where creators can create whatever videos they want, and upload them with the world. To me, These two Youtubers who have culminated over 100 million subscribers as of January 2020 are the face of the platform, with some of the biggest fanbases in the world. In addition, I found it surprising that T-Series, a music channel based in India, started extremely small but grew to overtake even PewDiePie in only the past few years. To me, this shows the evolution of how society as a whole is evolving through separate interests, as even the smallest of creators can grow with enough time and effort. It should be noted that I did in fact create the last time stamp, January 2020, but Chartbuilder did not display this information on the actual graph. 
+> The chart below describes the relationship between the subscriber counts of the two biggest Youtubers on Youtube. Youtube is a platform where creators can create whatever videos they want, and upload them with the world. These two Youtubers have culminated over 100 million subscribers as of January 2020, and are the face of the platform with some of the biggest fanbases in the world. In addition, I found it surprising that T-Series, a music channel based in India, started extremely small but grew to overtake even PewDiePie in only the past few years. This shows the evolution of how society as a whole is evolving through separate interests, as even the smallest of creators can grow with enough time and effort.
 
 >[PewDiePie](https://www.statista.com/statistics/681070/pewdiepie-subscriber-numbers/)
 
@@ -101,17 +101,17 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ![Chart Project 2](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/Subscriber_Count_of_Biggest_Youtubers_Comparison_PewDiePie_T-Series_chartbuilder.png?raw=true)
 
-## Map Project 
+## Top 20 Biking Locations, Global
 
-> The map below displays the top 20 cities that are the most popular for cycling. On a map format, it is easy for you to scroll through the various locations and find out exactly what city you should go to next for your next cycling trip. Although nowadays, it might be a better idea to stay home, since traveling is not the best idea. All information credited from Wired, 2019.
+> The map below displays the top 20 cities that are the most popular for cycling. On a map format, it is easy for you to scroll through the various locations and find out exactly what city you should go to next for your next cycling trip. Although nowadays, it might be a better idea to stay home, since traveling to another country is probably not the best idea. All information credited from Wired, 2019.
 
 >[Wired](https://www.wired.com/story/most-bike-friendly-cities-2019-copenhagenize-design-index/)
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1V1pKtgw9rem49T-d95IFckmxwEnZvlqv" width="640" height="480"></iframe>
 
-## Map 1 (Made using Google MapMaker)
+## The Top 10 Loneliest Places on Earth
 
-> The map below describes the top 10 loneliest places that a human could possibly travel on planet earth. In this case, loneliness is measured by how far the location is from civilization, along with how sparsely populated the location is, meaning the least number of people living over the largest land area. By using a map, it is easy for someone to see exactly where each location is, and each description informs people of how to get to such locations, if they really wanted to travel there. It is worth noting that the numbers that appear on the map are in reverse order, so the location labeled "1" is actually the tenth loneliest place on earth, and so on. Many of my findings included large areas of sparsely populated land, or islands that are practically uninhabited. However, there are many other points on earth that are also sparsely populated, maybe even more so than the locations on this list. 
+> The map below describes the top 10 loneliest places that a human could possibly travel on planet earth. In this case, loneliness is measured by how far the location is from civilization, along with how sparsely populated the location is, meaning the least number of people living over the largest land area. By using a map, it is easy for someone to see exactly where each location is, and each description informs people of how to get to such locations, if they really wanted to travel there. Many of my findings included large areas of sparsely populated land, or islands that are practically uninhabited. However, there are many other points on earth that are also sparsely populated, maybe even more so than the locations on this list.
 
 >[Top 10 unknown](http://www.top10unknown.com/2019/07/22/top-10-loneliest-places-on-earth/)
 
