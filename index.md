@@ -141,7 +141,9 @@ I joined the journalism class to further my interests in data gathering, organiz
 
 ## Introduction Comic
 
-> In the comic below, I am introducing myself in a totally normal way, not like the backgrounds are telling a totally different story or anything like that. The various slides make it easy for me to express my emotions in a way so that they seem to be connected with one another. I really liked all of the customization options avaliable on Pixton, since they helped me create characters and backgrounds that seem different from any other comic out there. Overall, I enjoyed creating this final project, along with every project I have made in this class. 
+> In the comic below, I am introducing myself in a totally normal way, not like the backgrounds are telling a totally different story or anything like that. The various slides make it easy for me to express my emotions in a way so that they seem to be connected with one another. I really liked all of the customization options avaliable on Pixton, since they helped me create characters and backgrounds that seem different from any other comic out there. Overall, I enjoyed creating this final project, along with every project I have made in this class.
+
+>[pixton](https://www.pixton.com/)
 
 ![Comic 1](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/JOUR%20Comic%201.png?raw=true)
 
