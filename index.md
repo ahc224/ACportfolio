@@ -3,6 +3,6 @@
 ## The Energy Crisis, Visualized
 
 
-![img](https://www.applesfromny.com/wp-content/uploads/2020/05/Jonagold_NYAS-Apples2.png | width=100)
+<img src="https://www.applesfromny.com/wp-content/uploads/2020/05/Jonagold_NYAS-Apples2.png" width="100" height="100">
 
 
