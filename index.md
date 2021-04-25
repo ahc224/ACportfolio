@@ -3,7 +3,6 @@
 ## The Energy Crisis, Visualized
 
 
-![img](https://github.com/ahc224/ahc224.github.io/blob/gh-pages/1.png?raw=true)
-
+![img](https://www.applesfromny.com/wp-content/uploads/2020/05/Jonagold_NYAS-Apples2.png= 250x250)
 
 
