@@ -1,5 +1,5 @@
 
-### ENGL 002 Multimodal Project
+# ENGL 002 Multimodal Project
 ## The Energy Crisis, Visualized
 
 
