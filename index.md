@@ -8,13 +8,13 @@
 
 ## Go to topic:
 
-[US Energy Production](#US-Energy-Production)
+[US Energy Production](#us-energy-production)
 
-[Energy Outlook](#Energy-Outlook)
+[Energy Outlook](#energy-outlook)
 
-[Global Energy Production](#Global-Energy-Production)
+[Global Energy Production](#global-energy-production)
 
-[Energy Consumption](#Energy-Consumption)
+[Energy Consumption](#energy-consumption)
 
 
 ## US Energy Production
