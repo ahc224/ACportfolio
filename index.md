@@ -1,7 +1,7 @@
 
-# ENGL 002 Multimodal Project
-## The Energy Crisis, Visualized
-<br />
+# ENGL 002 Multimodal Project: The Energy Crisis, Visualized
+## Andrew Choi, Prof. Provost, 5/10/21
+
 ## About this website
 
 > 
