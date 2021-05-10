@@ -8,7 +8,7 @@
 
 <img src="https://www.visualcapitalist.com/wp-content/uploads/2019/11/global-electricity-access-map.jpg" width="650" height="350">
 
-<img src="https://elliotwrd110.files.wordpress.com/2012/10/geo.png?w=960&h=618" width="650" height="350">
+<img src="https://ourworldindata.org/exports/energy-use-per-capita_v15_850x600.svg width="650" height="350">
 
 <img src="https://ourworldindata.org/exports/share-electricity-renewables_v12_850x600.svg" width="650" height="350">
 
@@ -25,8 +25,6 @@ Works Cited:
 [eia.gov](https://www.eia.gov/todayinenergy/detail.php?id=43515)
 
 [visual capitalist](https://www.visualcapitalist.com/mapped-billion-people-without-access-to-electricity/)
-
-[elliotwrd110](https://elliotwrd110.wordpress.com/2012/10/01/map-of-global-electricity-usage/)
 
 [our world in data](https://ourworldindata.org/renewable-energy#how-much-of-our-primary-energy-comes-from-renewables)
 
