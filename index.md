@@ -16,16 +16,18 @@
 
 <img src="https://images.theconversation.com/files/323760/original/file-20200328-146683-tug2bv.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip" width="650" height="350">
 
-<img src="https://www.eia.gov/energyexplained/us-energy-facts/images/consumption-by-source-and-sector.png" width="650" height="350">
+<img src="https://cdn.vox-cdn.com/thumbor/fTtb_xTs7xTIvj0gpw9pwOFMPj4=/0x0:2000x942/1200x0/filters:focal(0x0:2000x942):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/16348220/Figure_4.jpg" width="650" height="350">
 
-<img src="
+<img src="https://i.insider.com/55fc53ecdd08959c378b4735?width=1136&format=jpeg" width="650" height="350">
 
+<img src="https://d1owejb4br3l12.cloudfront.net/sites/default/files/images/co2-intensity-electricity-generation-2050.jpg" width="650" height="350">
 
+<img src="https://www.thinkgeoenergy.com/wp-content/uploads/2018/07/Enel_1H2018_Renewables_Capacity-1024x709.png" width="650" height="350">
 
 
 Works Cited:
 
-[eia.gov](https://www.eia.gov/todayinenergy/detail.php?id=43515)
+[eia.gov, energy detail](https://www.eia.gov/todayinenergy/detail.php?id=43515)
 
 [visual capitalist](https://www.visualcapitalist.com/mapped-billion-people-without-access-to-electricity/)
 
@@ -35,7 +37,13 @@ Works Cited:
 
 [the conversation](https://theconversation.com/covid-19-will-slow-the-global-shift-to-renewable-energy-but-cant-stop-it-133499)
 
-[eia.gov, US energy facts](https://www.eia.gov/energyexplained/us-energy-facts/)
+[vox](https://www.vox.com/energy-and-environment/2019/6/18/18681591/renewable-energy-china-solar-pv-jobs)
+
+[business insider](https://www.businessinsider.com/map-of-us-state-energy-use-as-a-foreign-country-2015-9)
+
+[enerdata](https://www.enerdata.net/publications/energy-outlook-tool.html)
+
+[thinkgeoenergy](https://www.thinkgeoenergy.com/with-2-of-capacity-only-geothermal-represents-around-6-of-enels-renewable-energy-generation/)
 
 
 
