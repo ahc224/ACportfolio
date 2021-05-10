@@ -1,10 +1,9 @@
-
-# ENGL 002 Multimodal Project: The Energy Crisis, Visualized
+# ENGL 002 Multimodal Project:
+# The Energy Crisis, Visualized
 ## Andrew Choi, Prof. Provost, 5/10/21
 
-## About this website
 
-> hello
+> For this semester's multimodal project, I decided to create a website that could help me convey the ideas I expressed in my essay with a visual format. I separated the topics I am talking about into four distinct sections, all of which are explained through graphs and visuals about energy and its applications. I also created a table of contents to help viewers travel to the different sections faster, as seen below:
 
 ## Go to topic:
 
@@ -35,6 +34,8 @@
 >
 
 
+[to top](https://ahc224.github.io/)
+
 ## Energy Outlook
 
 >
@@ -60,6 +61,8 @@
 >
 
 
+[to top](https://ahc224.github.io/)
+
 ## Global Energy Production
 
 >
@@ -77,6 +80,8 @@
 
 >
 
+
+[to top](https://ahc224.github.io/)
 
 ## Energy Consumption
 
@@ -103,7 +108,7 @@
 >
 
 
-
+[to top](https://ahc224.github.io/)
 
 
 
