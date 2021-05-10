@@ -8,7 +8,7 @@
 
 <img src="https://www.visualcapitalist.com/wp-content/uploads/2019/11/global-electricity-access-map.jpg" width="650" height="350">
 
-<img src="https://ourworldindata.org/exports/energy-use-per-capita_v15_850x600.svg width="650" height="350">
+<img src="https://ourworldindata.org/exports/energy-use-per-capita_v15_850x600.svg" width="650" height="350">
 
 <img src="https://ourworldindata.org/exports/share-electricity-renewables_v12_850x600.svg" width="650" height="350">
 
@@ -16,7 +16,10 @@
 
 <img src="https://images.theconversation.com/files/323760/original/file-20200328-146683-tug2bv.png?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip" width="650" height="350">
 
+<img src="https://www.eia.gov/energyexplained/us-energy-facts/images/consumption-by-source-and-sector.png" width="650" height="350">
+
 <img src="
+
 
 
 
@@ -31,6 +34,8 @@ Works Cited:
 [energies nouvelles](https://www.ifpenergiesnouvelles.com/article/cobalt-energy-transition-closer-look-supply-risks)
 
 [the conversation](https://theconversation.com/covid-19-will-slow-the-global-shift-to-renewable-energy-but-cant-stop-it-133499)
+
+[eia.gov, US energy facts](https://www.eia.gov/energyexplained/us-energy-facts/)
 
 
 
